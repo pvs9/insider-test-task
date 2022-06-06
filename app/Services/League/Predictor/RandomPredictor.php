@@ -9,7 +9,6 @@ use Spatie\DataTransferObject\Exceptions\UnknownProperties;
 
 class RandomPredictor implements Predictor
 {
-
     /**
      * @throws UnknownProperties
      * @throws Exception

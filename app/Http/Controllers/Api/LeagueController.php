@@ -6,6 +6,7 @@ use App\Http\Requests\League\StoreLeagueRequest;
 use App\Http\Resources\LeagueResource;
 use App\Http\Resources\LeagueWithProgressResource;
 use App\Models\League;
+use App\Models\Team;
 use App\Services\League\DTO\StoreLeagueDTO;
 use App\Services\League\LeagueService;
 use Illuminate\Http\JsonResponse;
@@ -17,6 +18,10 @@ class LeagueController extends ApiController
 {
     public function store(StoreLeagueRequest $request, LeagueService $service): JsonResponse
     {
+        if (!Team::query()->exists()) {
+            return $this->errorResponse('No teams present');
+        }
+
         try {
             $dto = StoreLeagueDTO::fromRequest($request);
         } catch (UnknownProperties) {

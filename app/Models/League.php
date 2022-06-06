@@ -47,8 +47,12 @@ class League extends Model
             ->inRandomOrder()
             ->as('progress')
             ->withPivot(
-                'points', 'played', 'wins',
-                'draws', 'losses', 'goal_difference',
+                'points',
+                'played',
+                'wins',
+                'draws',
+                'losses',
+                'goal_difference',
                 'win_probability',
             );
     }
@@ -69,7 +73,7 @@ class League extends Model
     public function getTotalWeeksAttribute(): ?int
     {
         return app(LeagueService::class)
-            ?->getLeagueImplementationFromType($this->type)
-            ?->getWeeksQuantity();
+            ->getLeagueImplementationFromType($this->type)
+            ->getWeeksQuantity();
     }
 }

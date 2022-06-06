@@ -42,7 +42,7 @@ class RubixTrain extends Command
         foreach ($datasetFiles as $datasetFile) {
             $file = Storage::readStream($datasetFile);
 
-            while($match = fgetcsv($file,1024)) {
+            while ($match = fgetcsv($file, 1024)) {
                 if ($match[0] === 'Div') {
                     continue;
                 }

@@ -11,7 +11,7 @@ use Rubix\ML\PersistentModel;
 use Rubix\ML\Persisters\Filesystem;
 use Rubix\ML\Transformers\NumericStringConverter;
 
-class TestRubix extends Command
+class RubixTest extends Command
 {
     /**
      * The name and signature of the console command.
@@ -37,6 +37,6 @@ class TestRubix extends Command
         $predictions = $estimator->predict($houseDataset);
         $metric = new Accuracy();
 
-        $this->line($metric->score($predictions, $houseDataset->labels()));
+        $this->line((string)$metric->score($predictions, $houseDataset->labels()));
     }
 }

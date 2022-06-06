@@ -4,5 +4,5 @@ namespace App\Services\League\Enums;
 
 enum LeagueTypeEnum: int
 {
-    case INSIDER_LEAGUE = 1;
-}
+case INSIDER_LEAGUE = 1;
+    }

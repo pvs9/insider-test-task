@@ -12,7 +12,6 @@ use Spatie\DataTransferObject\Exceptions\UnknownProperties;
 
 class AverageEfficiencyChampionshipPredictor implements ChampionshipPredictor
 {
-
     /**
      * @throws UnknownProperties
      */
@@ -43,7 +42,8 @@ class AverageEfficiencyChampionshipPredictor implements ChampionshipPredictor
                     return $match->week <= $weekNumber && ($isPlayingHouse ?
                         $match->awayTeam->id === $team->id :
                         $match->houseTeam->id === $team->id);
-                })
+                }
+            )
                 ->first();
             $goalDifference = $isPlayingHouse ?
                 $previousMatch->away_points - $previousMatch->house_points :

@@ -84,7 +84,7 @@ final class LeagueService
 
     public function storeLeague(StoreLeagueDTO $dto): ?League
     {
-        $league = new League;
+        $league = new League();
         $league->name = $dto->name;
         $league->type = $dto->type;
 

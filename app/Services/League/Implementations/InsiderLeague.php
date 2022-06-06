@@ -70,7 +70,7 @@ class InsiderLeague implements LeagueImplementation
         $lastIndex = count($teamIds) - 1;
         $newTeams = [$teamIds[0]];
 
-        for($i = 1; $i <= $lastIndex; $i++) {
+        for ($i = 1; $i <= $lastIndex; $i++) {
             $newIndex = $i + 1;
 
             if ($newIndex > $lastIndex) {
