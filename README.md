@@ -1,5 +1,9 @@
 # insider-test-task
 
+**UPD: It was quite hard to determine teams for fixtures, because all websites listed in the task are banning requests from Russia thats why I used last teams list of Premier League. As I am not a big football fan, it is hard for me to determine if its correct enough**
+
+**UPD: Folder with datasets and model has been excluded from github due to incorrect .gitignore setting, fixed it wis last commit**
+
 This is a test-task with football league results prediction
 
 I made almost everything extendable that is why we have a lot of interfaces which allow us to swap dependencies (Predictors, for example)

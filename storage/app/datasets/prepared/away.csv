@@ -1,0 +1,761 @@
+HouseTeam,AwayTeam,HouseTeamRating,AwayTeamRating,AwayTeamScore
+Fulham,Arsenal,66,67,3
+"Crystal Palace",Southampton,67,66,0
+Liverpool,Leeds,70,65,3
+"West Ham",Newcastle,67,66,2
+"West Brom",Leicester,0,67,3
+Tottenham,Everton,68,65,1
+Brighton,Chelsea,67,69,3
+"Sheffield United",Wolves,64,0,2
+Everton,"West Brom",65,0,2
+Leeds,Fulham,65,66,3
+"Man United","Crystal Palace",67,67,3
+Arsenal,"West Ham",67,67,1
+Southampton,Tottenham,66,68,5
+Newcastle,Brighton,66,67,3
+Chelsea,Liverpool,69,70,2
+Leicester,Burnley,67,66,2
+"Aston Villa","Sheffield United",66,64,0
+Wolves,"Man City",0,71,3
+Brighton,"Man United",67,67,3
+"Crystal Palace",Everton,67,65,2
+"West Brom",Chelsea,0,69,3
+Burnley,Southampton,66,66,1
+"Sheffield United",Leeds,64,65,1
+Tottenham,Newcastle,68,66,1
+"Man City",Leicester,71,67,5
+"West Ham",Wolves,67,0,0
+Fulham,"Aston Villa",66,66,3
+Liverpool,Arsenal,70,67,1
+Chelsea,"Crystal Palace",69,67,0
+Everton,Brighton,65,67,2
+Leeds,"Man City",65,71,1
+Newcastle,Burnley,66,66,1
+Leicester,"West Ham",67,67,3
+Southampton,"West Brom",66,0,0
+Arsenal,"Sheffield United",67,64,1
+Wolves,Fulham,0,66,0
+"Man United",Tottenham,67,68,6
+"Aston Villa",Liverpool,66,70,2
+Everton,Liverpool,65,70,2
+Chelsea,Southampton,69,66,3
+"Man City",Arsenal,71,67,0
+Newcastle,"Man United",66,67,4
+"Sheffield United",Fulham,64,66,1
+"Crystal Palace",Brighton,67,67,1
+Tottenham,"West Ham",68,67,3
+Leicester,"Aston Villa",67,66,1
+"West Brom",Burnley,0,66,0
+Leeds,Wolves,65,0,1
+"Aston Villa",Leeds,66,65,3
+"West Ham","Man City",67,71,1
+Fulham,"Crystal Palace",66,67,2
+"Man United",Chelsea,67,69,0
+Liverpool,"Sheffield United",70,64,1
+Southampton,Everton,66,65,0
+Wolves,Newcastle,0,66,1
+Arsenal,Leicester,67,67,1
+Brighton,"West Brom",67,0,1
+Burnley,Tottenham,66,68,1
+Wolves,"Crystal Palace",0,67,0
+"Sheffield United","Man City",64,71,1
+Burnley,Chelsea,66,69,3
+Liverpool,"West Ham",70,67,1
+"Aston Villa",Southampton,66,66,4
+Newcastle,Everton,66,65,1
+"Man United",Arsenal,67,67,1
+Tottenham,Brighton,68,67,1
+Fulham,"West Brom",66,0,0
+Leeds,Leicester,65,67,4
+Brighton,Burnley,67,66,0
+Southampton,Newcastle,66,66,0
+Everton,"Man United",65,67,3
+"Crystal Palace",Leeds,67,65,1
+Chelsea,"Sheffield United",69,64,1
+"West Ham",Fulham,67,66,0
+"West Brom",Tottenham,0,68,1
+Leicester,Wolves,67,0,0
+"Man City",Liverpool,71,70,1
+Arsenal,"Aston Villa",67,66,3
+Newcastle,Chelsea,66,69,2
+"Aston Villa",Brighton,66,67,2
+Tottenham,"Man City",68,71,0
+"Man United","West Brom",67,0,0
+Fulham,Everton,66,65,3
+"Sheffield United","West Ham",64,67,1
+Leeds,Arsenal,65,67,0
+Liverpool,Leicester,70,67,0
+Burnley,"Crystal Palace",66,67,0
+Wolves,Southampton,0,66,1
+"Crystal Palace",Newcastle,67,66,2
+Brighton,Liverpool,67,70,1
+"Man City",Burnley,71,66,0
+Everton,Leeds,65,65,1
+"West Brom","Sheffield United",0,64,0
+Southampton,"Man United",66,67,3
+Chelsea,Tottenham,69,68,0
+Arsenal,Wolves,67,0,2
+Leicester,Fulham,67,66,2
+"West Ham","Aston Villa",67,66,1
+Burnley,Everton,66,65,1
+"Man City",Fulham,71,66,0
+"West Ham","Man United",67,67,3
+Chelsea,Leeds,69,65,1
+"West Brom","Crystal Palace",0,67,5
+"Sheffield United",Leicester,64,67,2
+Tottenham,Arsenal,68,67,0
+Liverpool,Wolves,70,0,0
+Brighton,Southampton,67,66,2
+Leeds,"West Ham",65,67,2
+Wolves,"Aston Villa",0,66,1
+Newcastle,"West Brom",66,0,1
+"Man United","Man City",67,71,0
+Everton,Chelsea,65,69,0
+Southampton,"Sheffield United",66,64,0
+"Crystal Palace",Tottenham,67,68,1
+Fulham,Liverpool,66,70,1
+Arsenal,Burnley,67,66,1
+Leicester,Brighton,67,67,0
+Wolves,Chelsea,0,69,1
+"Man City","West Brom",71,0,1
+Arsenal,Southampton,67,66,1
+Leeds,Newcastle,65,66,2
+Leicester,Everton,67,65,2
+Fulham,Brighton,66,67,0
+Liverpool,Tottenham,70,68,1
+"West Ham","Crystal Palace",67,67,1
+"Aston Villa",Burnley,66,66,0
+"Sheffield United","Man United",64,67,3
+"Crystal Palace",Liverpool,67,70,7
+Southampton,"Man City",66,71,1
+Everton,Arsenal,65,67,1
+Newcastle,Fulham,66,66,1
+Brighton,"Sheffield United",67,64,1
+Tottenham,Leicester,68,67,2
+"Man United",Leeds,67,65,2
+"West Brom","Aston Villa",0,66,3
+Burnley,Wolves,66,0,1
+Chelsea,"West Ham",69,67,0
+Leicester,"Man United",67,67,2
+"Aston Villa","Crystal Palace",66,67,0
+Fulham,Southampton,66,66,0
+Arsenal,Chelsea,67,69,1
+"Man City",Newcastle,71,66,0
+"Sheffield United",Everton,64,65,1
+Leeds,Burnley,65,66,0
+"West Ham",Brighton,67,67,2
+Liverpool,"West Brom",70,0,1
+Wolves,Tottenham,0,68,1
+"Crystal Palace",Leicester,67,67,1
+Chelsea,"Aston Villa",69,66,1
+Brighton,Arsenal,67,67,1
+Burnley,"Sheffield United",66,64,0
+Southampton,"West Ham",66,67,0
+"West Brom",Leeds,0,65,5
+"Man United",Wolves,67,0,0
+Newcastle,Liverpool,66,70,0
+Everton,"West Ham",65,67,1
+"Man United","Aston Villa",67,66,1
+Tottenham,Leeds,68,65,0
+"Crystal Palace","Sheffield United",67,64,0
+Brighton,Wolves,67,0,3
+"West Brom",Arsenal,0,67,4
+Newcastle,Leicester,66,67,2
+Chelsea,"Man City",69,71,3
+Southampton,Liverpool,66,70,0
+"Sheffield United",Newcastle,64,66,0
+Burnley,"Man United",66,67,1
+Wolves,Everton,0,65,2
+"Man City",Brighton,71,67,0
+Tottenham,Fulham,68,66,1
+Arsenal,"Crystal Palace",67,67,0
+Wolves,"West Brom",0,0,3
+Leeds,Brighton,65,67,1
+"West Ham",Burnley,67,66,0
+Fulham,Chelsea,66,69,1
+Leicester,Southampton,67,66,0
+"Sheffield United",Tottenham,64,68,3
+Liverpool,"Man United",70,67,0
+"Man City","Crystal Palace",71,67,0
+Arsenal,Newcastle,67,66,0
+"West Ham","West Brom",67,0,1
+Leicester,Chelsea,67,69,0
+"Man City","Aston Villa",71,66,0
+Fulham,"Man United",66,67,2
+Liverpool,Burnley,70,66,1
+"Aston Villa",Newcastle,66,66,0
+"Crystal Palace","West Ham",67,67,3
+Newcastle,Leeds,66,65,2
+Southampton,Arsenal,66,67,3
+"West Brom","Man City",0,71,5
+Burnley,"Aston Villa",66,66,2
+Chelsea,Wolves,69,0,0
+Brighton,Fulham,67,66,0
+Everton,Leicester,65,67,1
+"Man United","Sheffield United",67,64,2
+Tottenham,Liverpool,68,70,3
+Everton,Newcastle,65,66,2
+"Crystal Palace",Wolves,67,0,0
+"Man City","Sheffield United",71,64,0
+"West Brom",Fulham,0,66,2
+Arsenal,"Man United",67,67,0
+Southampton,"Aston Villa",66,66,1
+Chelsea,Burnley,69,66,0
+Leicester,Leeds,67,65,3
+"West Ham",Liverpool,67,70,3
+Brighton,Tottenham,67,68,0
+"Sheffield United","West Brom",64,0,1
+Wolves,Arsenal,0,67,1
+"Man United",Southampton,67,66,0
+Newcastle,"Crystal Palace",66,67,2
+Burnley,"Man City",66,71,2
+Fulham,Leicester,66,67,2
+Leeds,Everton,65,65,2
+"Aston Villa","West Ham",66,67,3
+Liverpool,Brighton,70,67,1
+Tottenham,Chelsea,68,69,1
+"Aston Villa",Arsenal,66,67,0
+Burnley,Brighton,66,67,1
+Newcastle,Southampton,66,66,2
+Fulham,"West Ham",66,67,0
+"Man United",Everton,67,65,3
+Tottenham,"West Brom",68,0,0
+Wolves,Leicester,0,67,0
+Liverpool,"Man City",70,71,4
+"Sheffield United",Chelsea,64,69,2
+Leeds,"Crystal Palace",65,67,0
+Leicester,Liverpool,67,70,1
+"Crystal Palace",Burnley,67,66,3
+"Man City",Tottenham,71,68,0
+Brighton,"Aston Villa",67,66,0
+Southampton,Wolves,66,0,2
+"West Brom","Man United",0,67,1
+Arsenal,Leeds,67,65,2
+Everton,Fulham,65,66,2
+"West Ham","Sheffield United",67,64,0
+Chelsea,Newcastle,69,66,0
+Burnley,Fulham,66,66,1
+Everton,"Man City",65,71,3
+Wolves,Leeds,0,65,0
+Southampton,Chelsea,66,69,1
+Burnley,"West Brom",66,0,0
+Liverpool,Everton,70,65,2
+Fulham,"Sheffield United",66,64,0
+"West Ham",Tottenham,67,68,1
+"Aston Villa",Leicester,66,67,2
+Arsenal,"Man City",67,71,1
+"Man United",Newcastle,67,66,1
+Brighton,"Crystal Palace",67,67,2
+Leeds,Southampton,65,66,0
+"Man City","West Ham",71,67,1
+"West Brom",Brighton,0,67,0
+Leeds,"Aston Villa",65,66,1
+Newcastle,Wolves,66,0,1
+"Crystal Palace",Fulham,67,66,0
+Leicester,Arsenal,67,67,3
+Tottenham,Burnley,68,66,0
+Chelsea,"Man United",69,67,0
+"Sheffield United",Liverpool,64,70,2
+Everton,Southampton,65,66,0
+"Man City",Wolves,71,0,1
+Burnley,Leicester,66,67,1
+"Sheffield United","Aston Villa",64,66,0
+"Crystal Palace","Man United",67,67,0
+Fulham,Tottenham,66,68,1
+"West Brom",Everton,0,65,1
+Liverpool,Chelsea,70,69,1
+Burnley,Arsenal,66,67,1
+"Sheffield United",Southampton,64,66,2
+"Aston Villa",Wolves,66,0,0
+Brighton,Leicester,67,67,2
+"West Brom",Newcastle,0,66,0
+Liverpool,Fulham,70,66,1
+"Man City","Man United",71,67,2
+Tottenham,"Crystal Palace",68,67,1
+Chelsea,Everton,69,65,0
+"West Ham",Leeds,67,65,0
+"Man City",Southampton,71,66,2
+Newcastle,"Aston Villa",66,66,1
+Leeds,Chelsea,65,69,0
+"Crystal Palace","West Brom",67,0,0
+Everton,Burnley,65,66,2
+Fulham,"Man City",66,71,3
+Southampton,Brighton,66,67,2
+Leicester,"Sheffield United",67,64,0
+Arsenal,Tottenham,67,68,1
+"Man United","West Ham",67,67,0
+Wolves,Liverpool,0,70,1
+Fulham,Leeds,66,65,2
+Brighton,Newcastle,67,66,0
+"West Ham",Arsenal,67,67,3
+"Aston Villa",Tottenham,66,68,2
+Chelsea,"West Brom",69,0,5
+Leeds,"Sheffield United",65,64,1
+Leicester,"Man City",67,71,2
+Arsenal,Liverpool,67,70,3
+Southampton,Burnley,66,66,2
+Newcastle,Tottenham,66,68,2
+"Aston Villa",Fulham,66,66,1
+"Man United",Brighton,67,67,1
+Everton,"Crystal Palace",65,67,1
+Wolves,"West Ham",0,67,3
+Fulham,Wolves,66,0,1
+"Man City",Leeds,71,65,2
+Liverpool,"Aston Villa",70,66,1
+"Crystal Palace",Chelsea,67,69,4
+Burnley,Newcastle,66,66,2
+"West Ham",Leicester,67,67,2
+Tottenham,"Man United",68,67,3
+"Sheffield United",Arsenal,64,67,3
+"West Brom",Southampton,0,66,0
+Brighton,Everton,67,65,0
+Everton,Tottenham,65,68,2
+Newcastle,"West Ham",66,67,2
+Wolves,"Sheffield United",0,64,0
+Arsenal,Fulham,67,66,1
+"Man United",Burnley,67,66,1
+Leeds,Liverpool,65,70,1
+Chelsea,Brighton,69,67,0
+Tottenham,Southampton,68,66,1
+"Aston Villa","Man City",66,71,2
+Leicester,"West Brom",67,0,0
+Arsenal,Everton,67,65,1
+Liverpool,Newcastle,70,66,1
+"West Ham",Chelsea,67,69,1
+"Sheffield United",Brighton,64,67,0
+Wolves,Burnley,0,66,4
+Leeds,"Man United",65,67,0
+"Aston Villa","West Brom",66,0,2
+Leicester,"Crystal Palace",67,67,1
+Southampton,Leicester,66,67,1
+"Crystal Palace","Man City",67,71,2
+Brighton,Leeds,67,65,0
+Chelsea,Fulham,69,66,0
+Everton,"Aston Villa",65,66,2
+Newcastle,Arsenal,66,67,2
+Tottenham,"Sheffield United",68,64,0
+"West Brom",Wolves,0,0,1
+Burnley,"West Ham",66,67,2
+Leicester,Newcastle,67,66,4
+Leeds,Tottenham,65,68,1
+"Sheffield United","Crystal Palace",64,67,2
+"Man City",Chelsea,71,69,2
+Liverpool,Southampton,70,66,0
+Wolves,Brighton,0,67,1
+"Aston Villa","Man United",66,67,3
+"West Ham",Everton,67,65,1
+Arsenal,"West Brom",67,0,1
+Fulham,Burnley,66,66,2
+"Man United",Leicester,67,67,2
+Southampton,"Crystal Palace",66,67,1
+Chelsea,Arsenal,69,67,1
+"Aston Villa",Everton,66,65,0
+"Man United",Liverpool,67,70,4
+Newcastle,"Man City",66,71,4
+Burnley,Leeds,66,65,4
+Southampton,Fulham,66,66,1
+Brighton,"West Ham",67,67,1
+"Crystal Palace","Aston Villa",67,66,2
+Tottenham,Wolves,68,0,0
+"West Brom",Liverpool,0,70,2
+Everton,"Sheffield United",65,64,1
+"Man United",Fulham,67,66,1
+Southampton,Leeds,66,65,2
+Brighton,"Man City",67,71,2
+Chelsea,Leicester,69,67,1
+Everton,Wolves,65,0,0
+Newcastle,"Sheffield United",66,64,0
+Tottenham,"Aston Villa",68,66,2
+"Crystal Palace",Arsenal,67,67,3
+Burnley,Liverpool,66,70,3
+"West Brom","West Ham",0,67,3
+Arsenal,Brighton,67,67,0
+"Aston Villa",Chelsea,66,69,1
+Fulham,Newcastle,66,66,2
+Leeds,"West Brom",65,0,1
+Leicester,Tottenham,67,68,4
+Liverpool,"Crystal Palace",70,67,0
+"Man City",Everton,71,65,0
+"Sheffield United",Burnley,64,66,0
+"West Ham",Southampton,67,66,0
+Wolves,"Man United",0,67,2
+Brentford,Arsenal,66,67,0
+"Man United",Leeds,67,65,1
+Burnley,Brighton,66,67,2
+Chelsea,"Crystal Palace",69,67,0
+Everton,Southampton,65,66,1
+Leicester,Wolves,67,0,0
+Watford,"Aston Villa",65,66,2
+Norwich,Liverpool,64,70,3
+Newcastle,"West Ham",66,67,4
+Tottenham,"Man City",68,71,0
+Liverpool,Burnley,70,66,0
+"Aston Villa",Newcastle,66,66,0
+"Crystal Palace",Brentford,67,66,0
+Leeds,Everton,65,65,2
+"Man City",Norwich,71,64,0
+Brighton,Watford,67,65,0
+Southampton,"Man United",66,67,1
+Wolves,Tottenham,0,68,1
+Arsenal,Chelsea,67,69,2
+"West Ham",Leicester,67,67,1
+"Man City",Arsenal,71,67,0
+"Aston Villa",Brentford,66,66,1
+Brighton,Everton,67,65,2
+Newcastle,Southampton,66,66,2
+Norwich,Leicester,64,67,2
+"West Ham","Crystal Palace",67,67,2
+Liverpool,Chelsea,70,69,1
+Burnley,Leeds,66,65,1
+Tottenham,Watford,68,65,0
+Wolves,"Man United",0,67,1
+"Crystal Palace",Tottenham,67,68,0
+Arsenal,Norwich,67,64,0
+Brentford,Brighton,66,67,1
+Leicester,"Man City",67,71,1
+"Man United",Newcastle,67,66,1
+Southampton,"West Ham",66,67,0
+Watford,Wolves,65,0,2
+Chelsea,"Aston Villa",69,66,0
+Leeds,Liverpool,65,70,3
+Everton,Burnley,65,66,1
+Newcastle,Leeds,66,65,1
+Wolves,Brentford,0,66,2
+Burnley,Arsenal,66,67,1
+Liverpool,"Crystal Palace",70,67,0
+"Man City",Southampton,71,66,0
+Norwich,Watford,64,65,3
+"Aston Villa",Everton,66,65,0
+Brighton,Leicester,67,67,1
+"West Ham","Man United",67,67,2
+Tottenham,Chelsea,68,69,3
+Chelsea,"Man City",69,71,1
+"Man United","Aston Villa",67,66,1
+Everton,Norwich,65,64,0
+Leeds,"West Ham",65,67,2
+Leicester,Burnley,67,66,2
+Watford,Newcastle,65,66,1
+Brentford,Liverpool,66,70,3
+Southampton,Wolves,66,0,1
+Arsenal,Tottenham,67,68,1
+"Crystal Palace",Brighton,67,67,1
+"Man United",Everton,67,65,1
+Burnley,Norwich,66,64,0
+Chelsea,Southampton,69,66,1
+Leeds,Watford,65,65,0
+Wolves,Newcastle,0,66,1
+Brighton,Arsenal,67,67,0
+"Crystal Palace",Leicester,67,67,2
+Tottenham,"Aston Villa",68,66,1
+"West Ham",Brentford,67,66,2
+Liverpool,"Man City",70,71,2
+Watford,Liverpool,65,70,5
+"Aston Villa",Wolves,66,0,3
+Leicester,"Man United",67,67,2
+"Man City",Burnley,71,66,0
+Norwich,Brighton,64,67,0
+Southampton,Leeds,66,65,0
+Brentford,Chelsea,66,69,1
+Everton,"West Ham",65,67,1
+Newcastle,Tottenham,66,68,3
+Arsenal,"Crystal Palace",67,67,2
+Arsenal,"Aston Villa",67,66,1
+Chelsea,Norwich,69,64,0
+"Crystal Palace",Newcastle,67,66,1
+Everton,Watford,65,65,5
+Leeds,Wolves,65,0,1
+Southampton,Burnley,66,66,2
+Brighton,"Man City",67,71,4
+Brentford,Leicester,66,67,2
+"West Ham",Tottenham,67,68,0
+"Man United",Liverpool,67,70,5
+Leicester,Arsenal,67,67,2
+Burnley,Brentford,66,66,1
+Liverpool,Brighton,70,67,2
+"Man City","Crystal Palace",71,67,2
+Newcastle,Chelsea,66,69,3
+Watford,Southampton,65,66,1
+Tottenham,"Man United",68,67,3
+Norwich,Leeds,64,65,2
+"Aston Villa","West Ham",66,67,4
+Wolves,Everton,0,65,1
+Southampton,"Aston Villa",66,66,0
+"Man United","Man City",67,71,2
+Brentford,Norwich,66,64,2
+Chelsea,Burnley,69,66,1
+"Crystal Palace",Wolves,67,0,0
+Brighton,Newcastle,67,66,1
+Arsenal,Watford,67,65,0
+Everton,Tottenham,65,68,0
+Leeds,Leicester,65,67,1
+"West Ham",Liverpool,67,70,2
+Leicester,Chelsea,67,69,3
+"Aston Villa",Brighton,66,67,0
+Burnley,"Crystal Palace",66,67,3
+Newcastle,Brentford,66,66,3
+Norwich,Southampton,64,66,1
+Watford,"Man United",65,67,1
+Wolves,"West Ham",0,67,0
+Liverpool,Arsenal,70,67,0
+"Man City",Everton,71,65,0
+Tottenham,Leeds,68,65,1
+Arsenal,Newcastle,67,66,0
+"Crystal Palace","Aston Villa",67,66,2
+Liverpool,Southampton,70,66,0
+Norwich,Wolves,64,0,0
+Brighton,Leeds,67,65,0
+Brentford,Everton,66,65,0
+Leicester,Watford,67,65,2
+"Man City","West Ham",71,67,1
+Chelsea,"Man United",69,67,1
+Newcastle,Norwich,66,64,1
+Leeds,"Crystal Palace",65,67,0
+Southampton,Leicester,66,67,2
+Watford,Chelsea,65,69,2
+"West Ham",Brighton,67,67,1
+Wolves,Burnley,0,66,0
+"Aston Villa","Man City",66,71,2
+Everton,Liverpool,65,70,4
+Tottenham,Brentford,68,66,0
+"Man United",Arsenal,67,67,2
+"West Ham",Chelsea,67,69,2
+Newcastle,Burnley,66,66,0
+Southampton,Brighton,66,67,1
+Wolves,Liverpool,0,70,1
+Watford,"Man City",65,71,3
+Leeds,Brentford,65,66,2
+"Man United","Crystal Palace",67,67,0
+Tottenham,Norwich,68,64,0
+"Aston Villa",Leicester,66,67,1
+Everton,Arsenal,65,67,1
+Brentford,Watford,66,65,1
+"Man City",Wolves,71,0,0
+Arsenal,Southampton,67,66,0
+Chelsea,Leeds,69,65,2
+Liverpool,"Aston Villa",70,66,0
+Norwich,"Man United",64,67,1
+Burnley,"West Ham",66,67,0
+Leicester,Newcastle,67,66,0
+"Crystal Palace",Everton,67,65,1
+Norwich,"Aston Villa",64,66,2
+"Man City",Leeds,71,65,0
+Brighton,Wolves,67,0,1
+"Crystal Palace",Southampton,67,66,2
+Arsenal,"West Ham",67,67,0
+Chelsea,Everton,69,65,1
+Liverpool,Newcastle,70,66,1
+Leeds,Arsenal,65,67,4
+Newcastle,"Man City",66,71,4
+Wolves,Chelsea,0,69,0
+Tottenham,Liverpool,68,70,2
+"Man City",Leicester,71,67,3
+Norwich,Arsenal,64,67,5
+Tottenham,"Crystal Palace",68,67,0
+"West Ham",Southampton,67,66,3
+"Aston Villa",Chelsea,66,69,3
+Brighton,Brentford,67,66,0
+Newcastle,"Man United",66,67,1
+"Crystal Palace",Norwich,67,64,0
+Southampton,Tottenham,66,68,1
+Watford,"West Ham",65,67,4
+Leicester,Liverpool,67,70,0
+Chelsea,Brighton,69,67,1
+Brentford,"Man City",66,71,1
+"Man United",Burnley,67,66,1
+Arsenal,"Man City",67,71,2
+Watford,Tottenham,65,68,1
+"Crystal Palace","West Ham",67,67,3
+Brentford,"Aston Villa",66,66,1
+Everton,Brighton,65,67,3
+Leeds,Burnley,65,66,1
+Chelsea,Liverpool,69,70,2
+"Man United",Wolves,67,0,1
+Southampton,Brentford,66,66,1
+"West Ham",Norwich,67,64,0
+Brighton,"Crystal Palace",67,67,1
+"Man City",Chelsea,71,69,0
+Newcastle,Watford,66,65,1
+Norwich,Everton,64,65,1
+Wolves,Southampton,0,66,1
+"Aston Villa","Man United",66,67,2
+Liverpool,Brentford,70,66,0
+"West Ham",Leeds,67,65,3
+Brighton,Chelsea,67,69,1
+Leicester,Tottenham,67,68,3
+Brentford,"Man United",66,67,3
+Watford,Norwich,65,64,3
+Everton,"Aston Villa",65,66,1
+Brentford,Wolves,66,0,2
+Leeds,Newcastle,65,66,1
+"Man United","West Ham",67,67,0
+Southampton,"Man City",66,71,1
+Arsenal,Burnley,67,66,0
+"Crystal Palace",Liverpool,67,70,3
+Leicester,Brighton,67,67,1
+Chelsea,Tottenham,69,68,0
+Burnley,Watford,66,65,0
+Newcastle,Everton,66,65,1
+"West Ham",Watford,67,65,0
+Burnley,"Man United",66,67,1
+"Man City",Brentford,71,66,0
+Norwich,"Crystal Palace",64,67,1
+Tottenham,Southampton,68,66,3
+"Aston Villa",Leeds,66,65,3
+Liverpool,Leicester,70,67,0
+Wolves,Arsenal,0,67,1
+"Man United",Southampton,67,66,1
+Brentford,"Crystal Palace",66,67,0
+Everton,Leeds,65,65,0
+Watford,Brighton,65,67,2
+Norwich,"Man City",64,71,4
+Burnley,Liverpool,66,70,1
+Newcastle,"Aston Villa",66,66,0
+Tottenham,Wolves,68,0,2
+Leicester,"West Ham",67,67,2
+"Man United",Brighton,67,67,0
+"West Ham",Newcastle,67,66,1
+Arsenal,Brentford,67,66,1
+"Aston Villa",Watford,66,65,1
+Brighton,Burnley,67,66,3
+"Crystal Palace",Chelsea,67,69,1
+Liverpool,Norwich,70,64,1
+Southampton,Everton,66,65,0
+"Man City",Tottenham,71,68,3
+Leeds,"Man United",65,67,4
+Wolves,Leicester,0,67,1
+Burnley,Tottenham,66,68,0
+Watford,"Crystal Palace",65,67,4
+Liverpool,Leeds,70,65,0
+Arsenal,Wolves,67,0,1
+Southampton,Norwich,66,64,0
+Leeds,Tottenham,65,68,4
+Brentford,Newcastle,66,66,2
+"Crystal Palace",Burnley,67,66,1
+"Man United",Watford,67,65,0
+Brighton,"Aston Villa",67,66,2
+Everton,"Man City",65,71,1
+"West Ham",Wolves,67,0,0
+Burnley,Leicester,66,67,2
+Leicester,Leeds,67,65,0
+"Aston Villa",Southampton,66,66,0
+Burnley,Chelsea,66,69,4
+Newcastle,Brighton,66,67,1
+Norwich,Brentford,64,66,3
+Wolves,"Crystal Palace",0,67,2
+Liverpool,"West Ham",70,67,0
+Watford,Arsenal,65,67,3
+"Man City","Man United",71,67,1
+Tottenham,Everton,68,65,0
+Norwich,Chelsea,64,69,3
+Southampton,Newcastle,66,66,2
+Wolves,Watford,0,65,0
+Leeds,"Aston Villa",65,66,3
+Brighton,Liverpool,67,70,2
+Brentford,Burnley,66,66,0
+"Man United",Tottenham,67,68,2
+Chelsea,Newcastle,69,66,0
+Everton,Wolves,65,0,1
+Leeds,Norwich,65,64,1
+Southampton,Watford,66,65,2
+"West Ham","Aston Villa",67,66,1
+Arsenal,Leicester,67,67,0
+"Crystal Palace","Man City",67,71,0
+Brighton,Tottenham,67,68,2
+Arsenal,Liverpool,67,70,2
+Everton,Newcastle,65,66,0
+Wolves,Leeds,0,65,3
+"Aston Villa",Arsenal,66,67,1
+Leicester,Brentford,67,66,1
+Tottenham,"West Ham",68,67,1
+Liverpool,Watford,70,65,0
+Brighton,Norwich,67,64,0
+Burnley,"Man City",66,71,2
+Chelsea,Brentford,69,66,4
+Leeds,Southampton,65,66,1
+Wolves,"Aston Villa",0,66,1
+"Man United",Leicester,67,67,1
+"West Ham",Everton,67,65,1
+Tottenham,Newcastle,68,66,1
+"Crystal Palace",Arsenal,67,67,0
+Burnley,Everton,66,65,2
+Newcastle,Wolves,66,0,0
+Everton,"Man United",65,67,0
+Arsenal,Brighton,67,67,2
+Southampton,Chelsea,66,69,6
+Watford,Leeds,65,65,3
+"Aston Villa",Tottenham,66,68,4
+Brentford,"West Ham",66,67,0
+Leicester,"Crystal Palace",67,67,1
+Norwich,Burnley,64,66,0
+"Man City",Liverpool,71,70,2
+Tottenham,Brighton,68,67,1
+"Man United",Norwich,67,64,2
+Southampton,Arsenal,66,67,0
+Watford,Brentford,65,66,2
+Newcastle,Leicester,66,67,1
+"West Ham",Burnley,67,66,1
+Liverpool,"Man United",70,67,0
+Chelsea,Arsenal,69,67,4
+Everton,Leicester,65,67,1
+Newcastle,"Crystal Palace",66,67,0
+"Man City",Brighton,71,67,0
+Burnley,Southampton,66,66,0
+Arsenal,"Man United",67,67,1
+Leicester,"Aston Villa",67,66,0
+"Man City",Watford,71,65,1
+Norwich,Newcastle,64,66,3
+Brentford,Tottenham,66,68,0
+Brighton,Southampton,67,66,2
+Burnley,Wolves,66,0,0
+Chelsea,"West Ham",69,67,0
+Liverpool,Everton,70,65,0
+"Crystal Palace",Leeds,67,65,0
+"Man United",Chelsea,67,69,1
+Newcastle,Liverpool,66,70,1
+"Aston Villa",Norwich,66,64,0
+Southampton,"Crystal Palace",66,67,2
+Watford,Burnley,65,66,2
+Wolves,Brighton,0,67,3
+Leeds,"Man City",65,71,4
+Everton,Chelsea,65,69,0
+Tottenham,Leicester,68,67,1
+"West Ham",Arsenal,67,67,2
+"Man United",Brentford,67,66,0
+Brentford,Southampton,66,66,0
+Burnley,"Aston Villa",66,66,3
+Chelsea,Wolves,69,0,2
+"Crystal Palace",Watford,67,65,0
+Brighton,"Man United",67,67,0
+Liverpool,Tottenham,70,68,1
+Arsenal,Leeds,67,65,1
+Leicester,Everton,67,65,2
+Norwich,"West Ham",64,67,4
+"Man City",Newcastle,71,66,0
+"Aston Villa",Liverpool,66,70,2
+Leeds,Chelsea,65,69,3
+Leicester,Norwich,67,64,0
+Watford,Everton,65,65,0
+Wolves,"Man City",0,71,5
+Tottenham,Arsenal,68,67,0
+Tottenham,Burnley,68,66,0
+"Aston Villa","Crystal Palace",66,67,1
+Leeds,Brighton,65,67,1
+Watford,Leicester,65,67,5
+"West Ham","Man City",67,71,2
+Wolves,Norwich,0,64,1
+Everton,Brentford,65,66,3
+Newcastle,Arsenal,66,67,0
+Southampton,Liverpool,66,70,2
+Everton,"Crystal Palace",65,67,2
+"Aston Villa",Burnley,66,66,1
+Chelsea,Leicester,69,67,1
+Arsenal,Everton,67,65,1
+Brentford,Leeds,66,65,2
+Brighton,"West Ham",67,67,1
+Burnley,Newcastle,66,66,2
+Chelsea,Watford,69,65,1
+"Crystal Palace","Man United",67,67,0
+Leicester,Southampton,67,66,1
+Liverpool,Wolves,70,0,1
+"Man City","Aston Villa",71,66,2
+Norwich,Tottenham,64,68,5
