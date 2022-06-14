@@ -12,9 +12,9 @@ help: ## Show this help
 	@printf "\033[33m%s:\033[0m\n" 'Available commands'
 	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z0-9_-]+:.*?## / {printf "  \033[32m%-18s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
 
-install: ## Install all app dependencies
-	composer install --ignore-platform-reqs
+front: ## Install all app dependencies
 	./vendor/bin/sail npm install
+	./vendor/bin/sail npm run prod
 
 shell: ## Start shell into app container
 	./vendor/bin/sail shell
@@ -31,7 +31,6 @@ test-cover: ## Execute app tests with coverage
 	./vendor/bin/sail test --coverage
 
 up: ## Create and start containers
-	./vendor/bin/sail npm run prod
 	./vendor/bin/sail up -d
 	@printf "\n   \e[30;42m %s \033[0m\n\n" 'Navigate your browser to ⇒ http://localhost';
 

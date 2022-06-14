@@ -30,8 +30,15 @@ No Node JS is required because it is used inside Docker containers via Makefile 
 
 ## How to use
 
--  copy `.env.example` to `.env`
-- `make install` to install deps
+- copy `.env.example` to `.env`
+- ``` 
+  docker run --rm \
+  -u "$(id -u):$(id -g)" \
+  -v $(pwd):/var/www/html \
+  -w /var/www/html \
+  laravelsail/php81-composer:latest \
+  composer install --ignore-platform-reqs```
 - `make init` to migrate and seed DB
 - `make up` to bring everything up
+- `make front` in case you need to build frontend
 - Feel free to use `make test` and `make test-cover` to run PSR12, PHPStan checks and Pest tests
